@@ -1,6 +1,6 @@
  # Use the Jenkins image as the base image
-# FROM jenkins/jenkins:lts
-FROM jenkins/jenkins:2.462.3-lts-jdk17
+FROM jenkins/jenkins:lts
+# FROM jenkins/jenkins:2.462.3-lts-jdk17
 
 
 # Switch to root user to install dependencies
